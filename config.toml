@@ -52,12 +52,12 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Gabriel Nahmias"
-  role = "PhD Candidate \\ in Political Science"
+  name = "Gabriel Magnus Nahmias"
+  role = "PhD Candidate"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Massachusetts Institute of Technology", url = "https://polisci.mit.edu/people/gabriel-nahmias" } ]
+  organizations = [ { name = "MIT Political Science", url = "https://polisci.mit.edu/people/gabriel-nahmias" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
