@@ -64,7 +64,7 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "gnahmias@mit.edu"
-  address = "E53-470"
+  address = "MIT Building E53, Room 470"
   office_hours = """
   Email to book an appointment
   """
