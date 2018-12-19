@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Gabriel Magnus Nahmias"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -52,7 +52,7 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Gabriel Magnus Nahmias"
+  name = "Gabriel M. Nahmias"
   role = "PhD Candidate"
 
   # Organizations/Affiliations.
@@ -63,15 +63,13 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  email = "gnahmias@mit.edu"
+  address = "E53-470"
   office_hours = """
-  Monday 10:00 to 13:00\\
-  Wednesday 09:00 to 10:00\\
-  Otherwise email to book an appointment
+  Email to book an appointment
   """
-  phone = "888 888 88 88"
-  skype = "echo123"
+  phone = "+1 404 488 3520"
+  skype = "gabriel.nahmias"
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
