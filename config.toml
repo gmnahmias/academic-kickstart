@@ -64,7 +64,7 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "gnahmias@mit.edu"
-  address = "E53-470"
+  address = [ { name = "E53-470", url = "https://polisci.mit.edu/people/gabriel-nahmias" } ]
   office_hours = """
   Email to book an appointment
   """
@@ -97,8 +97,8 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 0
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  latitude = "42.361270"
+  longitude = "-71.083679"
   zoom = 15
 
   # SITE SETUP
