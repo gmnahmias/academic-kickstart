@@ -64,7 +64,7 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "gnahmias@mit.edu"
-  address = [ { name = "E53-470", url = "https://polisci.mit.edu/people/gabriel-nahmias" } ]
+  address = "E53-470"
   office_hours = """
   Email to book an appointment
   """
