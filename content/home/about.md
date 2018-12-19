@@ -17,9 +17,9 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD Candidate Political Science"
-  institution = "MIT"
-  year = 2022
+  course = "PhD Political Science"
+  institution = "Massachusetts Institute of Technology"
+  year = "2022 (Expected)"
 
 [[education.courses]]
   course = "BA/MA Political Science"
