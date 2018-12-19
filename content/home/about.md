@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Political Engagement",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Political Motivation",
+    "Political Mobilization",
+    "Distributive Politics"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -32,6 +32,8 @@ weight = 5
   year = 2013
 
 +++
+
+# Biography
 
 Gabriel Nahmias is a Ph.D. candidate in the department of political science at MIT. Working at the intersection of institutions and political behavior, he seeks to better understand the ways in which organizations mobilize low-resource actors into politics and how this process is shaped by, and reshapes, the distribution of economic resources in society. He has experience managing surveys, interviews, and experiments in southern and east Africa. His current projects include studies of the effects of campaign mobilization on political interest in the United States, the strategic responses of trade unions to globalization in rich countries, and what determines local government responsiveness to citizen pressure in South Africa.
 
