@@ -63,8 +63,8 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-#  email = "gnahmias@mit.edu"
-#  address = "E53-470"
+  email = "gnahmias@mit.edu"
+  address = "E53-470"
   office_hours = """
   Email to book an appointment
   """
