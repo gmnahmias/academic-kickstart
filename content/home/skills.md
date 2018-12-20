@@ -24,25 +24,37 @@ weight = 7
 [[feature]]
   icon = "comment"
   icon_pack = "fas"
-  name = "communication"
-  description = "French (Intermediate), Kinyarwanda (Beginner)"  
+  name = "Collection"
+  description = "SurveyCTO, Qualtrics"  
+
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Analysis"
+  description = "R, STAN, Rcpp, STATA, GIS, Python"
+
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Publishing"
+  description = "LaTeX, RMardown, RShiny, Microsoft Office Suite, Adobe Creative Suite"
 
 [[feature]]
   icon = "comment"
   icon_pack = "fas"
-  name = "Collection"
+  name = "Communication"
   description = "French (Intermediate), Kinyarwanda (Beginner)"  
 
 [[feature]]
   icon = "chart-line"
-  icon_pack = "fab"
-  name = "Analysis"
-  description = "R, STAN, Rcpp / C++, STATA, GIS, Python"
+  icon_pack = "fas"
+  name = "Collaboration"
+  description = "Overleaf, GitHub, Slack, Trello"
 
 [[feature]]
   icon = "chart-line"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Presentation"
-  description = "LaTeX, RMardown, RShiny, Microsoft Office Suite, Adobe Creative Suite"
+  description = "5+ Years Improv Theater"
 
 +++
