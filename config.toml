@@ -306,16 +306,15 @@ enableGitInfo = false
   url = "https://gabrielnahmias.com/files/cv.pdf"
   weight = 2
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+#[[menu.main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 4
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
   weight = 5
-
 
 
 # Link to a PDF of your resume/CV from the menu.
