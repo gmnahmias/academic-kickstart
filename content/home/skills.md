@@ -37,14 +37,13 @@ weight = 7
   icon = "book"
   icon_pack = "fas"
   name = "Publishing"
-  description = "LaTeX, RMardown, RShiny,   
-  Microsoft Office Suite, Adobe Creative Suite"
+  description = "LaTeX, RMardown, RShiny, Microsoft Office Suite, Adobe Creative Suite"
 
 [[feature]]
   icon = "comments"
   icon_pack = "fas"
   name = "Communication"
-  description = "French (Intermediate), Kinyarwanda (Beginner)"  
+  description = "French (Advanced), Kinyarwanda (Beginner), Swedish (Beginner)"  
 
 [[feature]]
   icon = "hands-helping"
