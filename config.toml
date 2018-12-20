@@ -308,7 +308,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "CV"
-  url = "https://gabrielnahmias.com/files/cv.pdf"
+  url = "https://gabrielnahmias.com/files/Curriculum_Vitae.pdf"
   weight = 2
 
 #[[menu.main]]
