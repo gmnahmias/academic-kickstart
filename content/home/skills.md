@@ -39,9 +39,10 @@ weight = 7
   name = "Analysis"
   description = "R, STAN, Rcpp / C++, STATA, GIS, Python"
 
-  [[feature]]
-    icon = "chart-line"
-    icon_pack = "fab"
-    name = "Presentation"
-    description = "LaTeX, RMardown, RShiny, Microsoft Office Suite, Adobe Creative Suite"
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fab"
+  name = "Presentation"
+  description = "LaTeX, RMardown, RShiny, Microsoft Office Suite, Adobe Creative Suite"
+
 +++
