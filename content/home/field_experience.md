@@ -3,8 +3,8 @@
 widget = "experience"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Field Experience"
-subtitle = ""
+#title = "Field Experience"
+#subtitle = ""
 
 # Order that this section will appear in.
 weight = 6
@@ -63,6 +63,6 @@ date_format = "Jan 2006"
   Included interviews with Rwandan nationals, both in Rwanda and in refugee camps in neighboring Uganda, regarding their views on democracy.
   """
 
-
-
 +++
+
+#Field Experience
