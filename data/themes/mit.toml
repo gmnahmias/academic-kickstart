@@ -1,13 +1,13 @@
 # Theme metadata
-name = "Default"
+name = "mit"
 
 # Is theme light or dark?
 light = true
 
 # Primary
-primary = "#2962ff"
-primary_light = "#768fff"
-primary_dark = "#0039cb"
+primary = "#a13b43"
+primary_light = "#e3e2de"
+primary_dark = "#000000"
 
 # Menu
 menu_primary = "#fff"
