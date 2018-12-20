@@ -15,11 +15,3 @@ list_format = 3
 image = ""
 caption = ""
 +++
-
-Awakened: The Potential for Mobilization to Reshape Interest in Politics
-
-Who are "We"? Ethnicity, Nationalism, and the Welfare State
-
-The Mobilization Toolbox: The Mechanisms of Extra-Rational Motivation for Political Participation
-
-Organized Labor in a Globalized World: The Impact of Increased International Economic Integration on the Strategies of Trade Unions.
