@@ -43,5 +43,5 @@ weight = 7
     icon = "chart-line"
     icon_pack = "fab"
     name = "Presentation"
-    description = "\LaTeX, RMardown, RShiny, Microsoft Office Suite, Adobe Creative Suite"
+    description = "LaTeX, RMardown, RShiny, Microsoft Office Suite, Adobe Creative Suite"
 +++
