@@ -22,21 +22,26 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "comment"
+  icon_pack = "fas"
+  name = "communication"
+  description = "French (Intermediate), Kinyarwanda (Beginner)"  
+
+[[feature]]
+  icon = "comment"
+  icon_pack = "fas"
+  name = "Collection"
+  description = "French (Intermediate), Kinyarwanda (Beginner)"  
 
 [[feature]]
   icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon_pack = "fab"
+  name = "Analysis"
+  description = "R, STAN, Rcpp / C++, STATA, GIS, Python"
 
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
-
+  [[feature]]
+    icon = "chart-line"
+    icon_pack = "fab"
+    name = "Presentation"
+    description = "\LaTeX, RMardown, RShiny, Microsoft Office Suite, Adobe Creative Suite"
 +++
