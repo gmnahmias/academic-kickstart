@@ -33,8 +33,6 @@ weight = 5
 
 +++
 
-# Biography
-
 Gabriel Nahmias is a Ph.D. candidate in the department of political science at MIT. Working at the intersection of institutions and political behavior, he seeks to better understand the ways in which organizations mobilize low-resource actors into politics and how this process is shaped by, and reshapes, the distribution of economic resources in society. He has experience managing surveys, interviews, and experiments in southern and east Africa. His current projects include studies of the effects of campaign mobilization on political interest in the United States, the strategic responses of trade unions to globalization in rich countries, and what determines local government responsiveness to citizen pressure in South Africa.
 
 At MIT he is a member of the Gov/Lab, a research team dedicated to building our understanding of how to increase political accountability. He is also a founding member of MIT’s Reading Group on African Politics. Moreover, he serves on MIT’s Corporation Joint Advisory Committee, is a longstanding member of the political science graduate student council, and administers the department’s graduate student working group.
