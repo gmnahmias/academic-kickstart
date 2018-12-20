@@ -19,12 +19,12 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "South African Councillor Panel Study, South Africa"
+  title = "South African Councillor Panel Study"
   company = ""
   company_url = ""
   location = "South Africa"
-  date_start = "2017-06-01"
-  date_end = "2017-07-01"
+  date_start = "June"
+  date_end = "July 2017"
   description = """
   Conducted semi-structured interviews with representatives from 41 non-governmental organizations across
   South Africa regarding their interactions with local councillors. This project was part of an ongoing effort
