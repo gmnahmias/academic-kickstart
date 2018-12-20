@@ -52,6 +52,16 @@ date_format = "Jan 2006"
   description = """
   Project managed, provided analysis for, and compiled a social audit of safety and sanitation conditions throughout the Western Cape. This process included interviews with 220 administrators, 912 learner questionnaires, 229 physical inspections of schools, 14 freedom of information requests and budget analyses, as well as synthesization of existing knowledge. This project was conducted during two years spent living in South Africa, working for [Equal Education](https://equaleducation.org.za) (Aug. 2014 - June 2016).
   """
+[[experience]]
+  title = "Relative Democracy: Rwandan Perceptions of What Constitutes Representative Government"
+  company = "School for International Training"
+  company_url = ""
+  location = "Rwanda and Uganda"
+  date_start = "2013-01-01"
+  date_end = "2013-04-01"
+  description = """
+  Included interviews with Rwandan nationals, both in Rwanda and in refugee camps in neighboring Uganda, regarding their views on democracy.
+  """
 
 
 
