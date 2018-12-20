@@ -3,7 +3,7 @@
 widget = "experience"  # Do not modify this line!
 active = false  # Activate this widget? true/false
 
-title = "Field Experience"
+title = "Experience"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -19,15 +19,19 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "South African Councillor Panel Study"
-  company = ""
-  company_url = "https://sacopsmit.org/"
+  title = "CEO"
+  company = "GenCoin"
+  company_url = ""
   location = "California"
-  date_start = "2017-06-01"
-  date_end = "2017-07-01"
-  description = "Conducted semi-structured interviews with representatives from 41 non-governmental organizations across
-South Africa regarding their interactions with local councillors. This project was part of an ongoing effort
-to provide insights into the role of democratically-elected leaders in local government."
+  date_start = "2017-01-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+
+  * Analysing
+  * Modelling
+  * Deploying
+  """
 
 [[experience]]
   title = "Professor"
