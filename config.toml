@@ -107,7 +107,7 @@ enableGitInfo = false
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
   color_theme = "mit"
   # Enable users to switch between day and night mode?
-  day_night = true
+  day_night = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -302,6 +302,11 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
+  name = "Projects"
+  url = "#current-projects"
+  weight = 3
+
+[[menu.main]]
   name = "CV"
   url = "https://gabrielnahmias.com/files/cv.pdf"
   weight = 2
@@ -314,8 +319,17 @@ enableGitInfo = false
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 5
+  weight = 6
 
+[[menu.main]]
+  name = "Training"
+  url = "training"
+  weight = 4
+
+[[menu.main]]
+  name = "Experience"
+  url = "experience"
+  weight = 5
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
