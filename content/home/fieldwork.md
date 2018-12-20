@@ -14,3 +14,7 @@ subtitle = ""
 weight = 60
 
 +++
+
+#[South African Councillor Panel Study](https://sacopsmit.org/)
+## June - July 2017, South Africa
+Conducted semi-structured interviews with representatives from 41 non-governmental organizations across South Africa regarding their interactions with local councillors. This project was part of an ongoing effort to provide insights into the role of democratically-elected leaders in local government.
