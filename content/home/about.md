@@ -34,7 +34,7 @@ weight = 1
 
 +++
 
-Gabriel works at the intersection of institutions and political behavior, seeking to better understand the ways in which citizens with less education are mobilized into politics and how this process is shaped by, and reshapes, the distribution of economic resources in society. He has [field experience](experience/#field_experience) managing surveys, interviews, and experiments in southern and east Africa, as well as advanced [methodological training](training).
+Gabriel works at the intersection of institutions and political behavior, seeking to better understand the ways in which citizens with less education are mobilized into politics and how this process is shaped by, and reshapes, the distribution of economic resources in society. He has [field experience](experience/#field_experience) conducting surveys, interviews, and experiments in southern and east Africa, as well as advanced [methodological training](training).
 
 His [current projects](#current-projects) include studies of the effects of campaign mobilization on political interest in the United States, the strategic responses of trade unions to globalization in rich countries, and what determines local government responsiveness to citizen pressure in South Africa. Before coming to MIT, Gabriel spent two years as a Research and Training Officer for [Equal Education](experience/#professional_experience), a social movement organization in South Africa.
 
