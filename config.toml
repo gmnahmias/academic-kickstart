@@ -64,8 +64,8 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "gnahmias@mit.edu"
-  address = "Office: MIT Building E53, Room 470"
-  office_hours = """Office Hours: Wednesdays 9:30 - 11:00 AM
+  address = "MIT Building E53, Room 470"
+  office_hours = """ Wednesdays 9:30 - 11:00 AM
   """
   phone = "+1 404 488 3520"
   skype = "gabriel.nahmias"
