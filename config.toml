@@ -63,16 +63,13 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = """**Email**
-  gnahmias@mit.edu"""
-  address = """**Office**
-  MIT Building E53, Room 470"""
-  office_hours = """**Office Hours**
+  email = "gnahmias@mit.edu"
+  address = "**Office** \\
+  MIT Building E53, Room 470"
+  office_hours = """**Office Hours** \\
   Wednesdays 9:30 - 11:00 AM
-  Or by appointment
   """
-  phone = """**Phone**
-  +1 404 488 3520"""
+  phone = "+1 404 488 3520"
   skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
