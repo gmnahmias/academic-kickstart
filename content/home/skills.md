@@ -37,7 +37,7 @@ weight = 7
   icon = "book"
   icon_pack = "fas"
   name = "Publishing"
-  description = "LaTeX, RMardown, RShiny, Microsoft Office Suite, Adobe Creative Suite"
+  description = "LaTeX, RMarkdown, RShiny, Microsoft Office Suite, Adobe Creative Suite"
 
 [[feature]]
   icon = "comments"
