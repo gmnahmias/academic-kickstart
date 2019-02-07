@@ -51,6 +51,6 @@ Philosophy of science as applied to social phenomena; the process of theorizing,
 *School for International Training (Kigali, Rwanda), Undergraduate Course*  
 Conducting structured and unstructured interviews in the field, identifying informants, analysis of interviews, sensative data security, and field work ethics.
 
-2011 [**Do No Harm**](https://www.cdacollaborative.org/what-we-do/conflict-sensitivity/)
+2011 [**Do No Harm**](https://www.cdacollaborative.org/what-we-do/conflict-sensitivity/)  
 *CDA Collaborative (Kigali, Rwanda), Certificate*  
 Mitigating negative impacts and supporting local capacities for peace when working in conflict and post-conflict environments.
