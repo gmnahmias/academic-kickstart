@@ -15,6 +15,8 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+0. **Experience:** [*17.802 - Quantitative Research Methods II*](https://gabrielnahmias.com/files/17_802_syll2019.pdf) (TA, MIT Spring 2019)
+Neyman-Rubin model, randomized experiments, quasi-experimental designs, causal inference with observational data, synthetic control, and mediation analysis.
 
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+0. **Teaching Training:** [*Kaufman Teaching Certificate*](https://tll.mit.edu/programming/workshop-descriptions) (MIT, Spring 2019)
+Completion of a program designed develop the teaching skills of graduate students.

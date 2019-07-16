@@ -31,7 +31,7 @@ weight = 7
   icon = "chart-line"
   icon_pack = "fas"
   name = "Analysis"
-  description = "R, STAN, Rcpp, STATA, GIS, Python"
+  description = "R, STAN, Rcpp, STATA, GIS, Python, Gephi"
 
 [[feature]]
   icon = "book"
