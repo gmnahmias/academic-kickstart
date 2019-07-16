@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   company_url = "Gabriel_Magnus_Nahmias_Letter_.pdf"
   location = "MIT"
   date_start = "2019-02-01"
-  date_end = "2017-05-01"
+  date_end = "2019-05-01"
   description = """
   A program designed develop the teaching skills of graduate students. Covers syllabus design, facilitating class sessions, understanding how people learn, active learning, effective evaluations, and teaching inclusively.
   """

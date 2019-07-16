@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   company_url = "17_802_syll2019.pdf"
   location = "MIT"
   date_start = "2019-02-01"
-  date_end = "2017-05-01"
+  date_end = "2019-05-01"
   description = """
   Neyman-Rubin model, randomized experiments, quasi-experimental designs, causal inference with observational data, synthetic control, and mediation analysis.
   """
