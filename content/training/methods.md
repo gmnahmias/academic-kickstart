@@ -14,6 +14,9 @@ subtitle = ""
 weight = 4
 
 +++
+2019 [**Institute for Qualitative and Multi-Method Research**](iqmr.pdf)  
+*Consortium on Qualitative Research Methods*  
+Logic of qualitative research, GIS, social network analysis, text analysis, and interpretive methods.
 
 2018 [**Advanced Topics in Quantitative Methods**](quant4.pdf)  
 *MIT Political Science, Graduate Course*  
