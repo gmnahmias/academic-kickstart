@@ -20,6 +20,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = " Building a Movement: The Organizer's Toolkit "
+  company = "Co-Instructor"
+  company_url = "http://student.mit.edu/searchiap/iap-9289afec6d8d284e016df5398e9e00b0.html"
+  location = "MIT"
+  date_start = "2019-02-01"
+  date_end = "2019-05-01"
+  description = """
+  Designed and taught a four-week workshop series covering: organizing conversations, theories of power and change, developing a campaign, persuasion, beating apathy, community mapping, leadership development, public speaking, and facilitation.
+  """
+
+[[experience]]
   title = "17.802 - Quantitative Research Methods II, Causal Inference"
   company = "TA"
   company_url = "17_802_syll2019.pdf"
