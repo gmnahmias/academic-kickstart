@@ -21,15 +21,6 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Dissertation Research: Activist Profiles"
-  location = "South Africa"
-  date_start = "2019-09-06"
-  date_end = "2019-11-021"
-  description = """
-  Interviewed a diverse set of 42 activists in Cape Town and Johannesburg regarding their personal activist histories, strategic decision points they experienced, and their understanding of the advocacy landscape.
-  """
-
-[[experience]]
   title = "NGO Perspectives on Local Government"
   company = "Findings"
   company_url = "ngo_interview_findings_2017.pdf"
