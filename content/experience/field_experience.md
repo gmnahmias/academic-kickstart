@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "NGO Perspectives on Local Government"
+  title = "Dissertation Research: Activist Profiles"
   location = "South Africa"
   date_start = "2019-09-06"
   date_end = "2019-11-021"
