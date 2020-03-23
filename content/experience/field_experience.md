@@ -19,16 +19,6 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-
-[[experience]]
-  title = "NGO Perspectives on Local Government"
-  location = "South Africa"
-  date_start = "2019-09-06"
-  date_end = "2019-11-021"
-  description = """
-  Interviewed a diverse set of 42 activists in Cape Town and Johannesburg regarding their personal activist histories, strategic decision points they experienced, and their understanding of the advocacy landscape.
-  """
-
 [[experience]]
   title = "NGO Perspectives on Local Government"
   company = "Findings"
