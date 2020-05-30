@@ -65,8 +65,8 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "gnahmias@mit.edu"
   address = " MIT Building E53, Room 414"
-  office_hours = "Wednesdays 9:30 - 11:00 AM (or by appointment)"
-  phone = "+1 404 488 3520"
+  #office_hours = "Wednesdays 9:30 - 11:00 AM (or by appointment)"
+  #phone = "+1 404 488 3520"
   skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
