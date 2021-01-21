@@ -20,6 +20,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = " Making Public Policy "
+  company = "Teaching Assistant"
+  company_url = "mpp.pdf"
+  location = "MIT"
+  date_start = "2020-08-01"
+  date_end = "2020-12-01"
+  description = """
+  The goal of the course is to provide students with the tools to be an informed, engaged, and effective democratic citizen going forward, knowledgeable about how public policy is made in the American context, able to analyze political inputs and outputs, and armed with insights into how to make their voice heard. 
+  """
+
+[[experience]]
   title = " Building a Movement: The Organizer's Toolkit "
   company = "Co-Instructor"
   company_url = "http://student.mit.edu/searchiap/iap-9289afec6d8d284e016df5398e9e00b0.html"
@@ -32,7 +43,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "17.802 - Quantitative Research Methods II, Causal Inference"
-  company = "TA"
+  company = "Teaching Assistant"
   company_url = "17_802_syll2019.pdf"
   location = "MIT"
   date_start = "2019-02-01"
