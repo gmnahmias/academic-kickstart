@@ -35,6 +35,6 @@ date_format = "January 2006"
   location = "Atlanta, GA"
   date_start = "2014-07-01"
   date_end = "2012-06-01"
-  description = "Prepared research deliverables for SECF, an association of grantmaking organizations, including: a Gates Foundation funded report on education, board materials, surveys of the membership, assessments of marketing, and program evaluations. Built novel data-sets from archival organizational records to evaluate the effectiveness of activities. Oversaw the merger of four data management systems into a new platform."
+  description = "Prepared research deliverables for SECF, an association of grantmaking organizations, including: board materials, a Gates Foundation funded report on education, surveys of the membership, assessments of marketing, and program evaluations. Built novel data-sets from archival organizational records to evaluate the effectiveness of activities. Oversaw the merger of four data management systems into a new platform."
 
 +++
