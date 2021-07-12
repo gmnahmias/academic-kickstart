@@ -15,7 +15,7 @@ weight = 2
 
 +++
 
-0. **Dissertation Project** *From Activist to Organizer: When Policy Advocates Invest in Democracy*
+0. **Dissertation Project** *Nobody Asked: Why Activists [Don’t] Recruit*
 Mixes interviews, surveys, text analysis, practitioner partnerships, and experiments to identify factors influencing individual political recruitment behavior in the US and South African contexts.
 
 0. **Under Review** *Awakened: The Potential for Mobilization to Reshape Interest in Politics*
